@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/bbondy/bloom-filter-cpp-sample#readme",
   "dependencies": {
-    "abp-filter-parser-cpp": "^1.0.2",
-    "bloom-filter-cpp": "^1.0.16",
-    "hashset-cpp": "^1.0.7"
+    "abp-filter-parser-cpp": "^1.0.12",
+    "bloom-filter-cpp": "^1.0.17",
+    "hashset-cpp": "^1.0.11"
   }
 }
